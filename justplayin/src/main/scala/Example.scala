@@ -5,10 +5,7 @@ import unfiltered.response._
 
 import org.clapper.avsl.Logger
 
-/*
- *yehuichen(yehui.chen@i-md.com)
-*/
-/** unfiltered plan */
+// Unfiltered plan.
 class App extends unfiltered.filter.Plan {
   import QParams._
 
